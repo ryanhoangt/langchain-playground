@@ -7,6 +7,8 @@ name = "pypi"
 langchain = "*"
 black = "*"
 openai = "*"
+tweepy = "*"
+flask = "*"
 
 [dev-packages]
 
